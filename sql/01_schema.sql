@@ -5,7 +5,7 @@ DROP DATABASE IF EXISTS universidad_intercambios;
 CREATE DATABASE IF NOT EXISTS universidad_intercambios;
 USE universidad_intercambios;
 
--- GEOGRAPHICAL CHARTS
+-- GEOGRAPHICAL TABLES
 CREATE TABLE IF NOT EXISTS estados (
     id_estado INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(100) NOT NULL
