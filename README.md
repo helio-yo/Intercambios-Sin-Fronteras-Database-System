@@ -9,30 +9,6 @@ This project emphasizes **data integrity**, **business logic implementation**, a
 
 ---
 
-## Repository Structure
-
-```text
-.
-├── schema.sql
-│   └── Database creation and table definitions
-│
-├── data_inserts.sql
-│   └── Initial dataset population
-│
-├── business_logic_and_analytics.sql
-│   ├── Advanced analytical queries
-│   ├── SQL function
-│   ├── Stored procedure
-│   └── Trigger enforcing business rules
-│
-├── execution/
-│   └── execution_log.txt
-│
-└── README.md
-```
-
----
-
 ## Database Design
 
 The database follows a normalized relational design and includes:
