@@ -1,0 +1,1467 @@
+mysql> SOURCE 01_schema.sql;
+Query OK, 12 rows affected (0.17 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Database changed
+Query OK, 0 rows affected (0.07 sec)
+
+Query OK, 0 rows affected (0.06 sec)
+
+Query OK, 0 rows affected (0.05 sec)
+
+Query OK, 0 rows affected (0.05 sec)
+
+Query OK, 0 rows affected (0.05 sec)
+
+Query OK, 0 rows affected (0.05 sec)
+
+Query OK, 0 rows affected (0.07 sec)
+
+Query OK, 0 rows affected (0.05 sec)
+
+Query OK, 0 rows affected (0.05 sec)
+
+Query OK, 0 rows affected (0.06 sec)
+
+Query OK, 0 rows affected (0.08 sec)
+
+Query OK, 0 rows affected (0.08 sec)
+
+mysql> SOURCE 02_inserts.sql;
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 100 rows affected (0.01 sec)
+Records: 100  Duplicates: 0  Warnings: 0
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.03 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 100 rows affected (0.01 sec)
+Records: 100  Duplicates: 0  Warnings: 0
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 96 rows affected (0.01 sec)
+Records: 96  Duplicates: 0  Warnings: 0
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 100 rows affected (0.01 sec)
+Records: 100  Duplicates: 0  Warnings: 0
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+mysql> SOURCE analytics_and_business_logic.sql;
+Database changed
++-----------+------------------+------------------+----------+
+| id_alumno | nombre           | apellido_paterno | promedio |
++-----------+------------------+------------------+----------+
+|         1 | Judith           | Peres            |     9.40 |
+|         2 | Mateo            | Muñiz            |     9.28 |
+|         3 | Concepción       | Marín            |     9.73 |
+|         4 | Pedro            | Romero           |     9.61 |
+|         5 | Leonor           | Abreu            |     9.06 |
+|         6 | Raquel           | Garibay          |     9.63 |
+|         7 | Pedro            | Lovato           |     9.19 |
+|         8 | Graciela         | Rael             |     9.99 |
+|         9 | Elena            | Escobar          |     9.55 |
+|        10 | Catalina         | Cornejo          |     9.60 |
+|        11 | Ricardo          | Laureano         |     9.82 |
+|        12 | Micaela          | Villagómez       |     9.09 |
+|        13 | Isabela          | Polanco          |     9.68 |
+|        14 | Samuel           | Velásquez        |     9.45 |
+|        15 | Samuel           | Alonzo           |     9.63 |
+|        16 | Silvano          | Campos           |     9.22 |
+|        17 | Mayte            | Arenas           |     9.86 |
+|        18 | Ana Luisa        | Covarrubias      |     9.63 |
+|        19 | Delia            | Alcántar         |     9.61 |
+|        20 | Fidel            | Corrales         |     9.73 |
+|        21 | Evelio           | Rosario          |     9.84 |
+|        22 | Horacio          | Oquendo          |     9.18 |
+|        23 | José María       | Vanegas          |     9.36 |
+|        24 | Francisco Javier | Cotto            |     9.16 |
+|        25 | Hugo             | Robles           |     9.92 |
+|        26 | Catalina         | Alejandro        |     9.92 |
+|        27 | Abelardo         | Tafoya           |     9.01 |
+|        28 | Benito           | Rolón            |     9.13 |
+|        29 | Uriel            | Montenegro       |     9.85 |
+|        30 | Josefina         | Vanegas          |     9.00 |
+|        31 | Diego            | Franco           |     9.45 |
+|        32 | Isabela          | Miranda          |     9.05 |
+|        33 | Leonardo         | Ulibarri         |     9.88 |
+|        34 | Homero           | Duarte           |     9.05 |
+|        35 | Mario            | Miranda          |     9.99 |
+|        36 | Cristal          | de la Crúz       |     9.72 |
+|        37 | Estela           | Ballesteros      |     9.61 |
+|        38 | Armando          | Negrete          |     9.85 |
+|        39 | Cristina         | Munguía          |     9.21 |
+|        40 | Rodolfo          | Arroyo           |     9.30 |
+|        41 | Juan Carlos      | Castillo         |     9.16 |
+|        42 | Leonor           | Marquez          |     9.94 |
+|        43 | Cristina         | Luna             |     9.62 |
+|        44 | Hugo             | Salas            |     9.22 |
+|        45 | Francisco        | Sánchez          |     9.48 |
+|        46 | Lorena           | García           |     9.72 |
+|        47 | Ramón            | Medina           |     9.51 |
+|        48 | Adriana          | Rivas            |     9.63 |
+|        49 | Jorge            | Vargas           |     9.79 |
+|        50 | Marta            | Mendoza          |     9.35 |
+|        51 | Ricardo          | Soto             |     9.58 |
+|        52 | Luisa            | Fernández        |     9.43 |
+|        53 | Fernando         | Ramírez          |     9.61 |
+|        54 | Patricia         | Hernández        |     9.34 |
+|        55 | Daniel           | González         |     9.77 |
+|        56 | Sofía            | Martínez         |     9.45 |
+|        57 | Carlos           | Torres           |     9.50 |
+|        58 | María            | Díaz             |     9.62 |
+|        59 | José             | Morales          |     9.78 |
+|        60 | Laura            | Vargas           |     9.30 |
+|        61 | Miguel           | Ramírez          |     9.55 |
+|        62 | Ana              | Gómez            |     8.50 |
+|        64 | Carla            | Ruiz             |     9.10 |
+|        66 | Elena            | Vega             |     8.00 |
+|        68 | Gabriela         | Mendoza          |     9.50 |
+|        70 | Isabel           | Rojas            |     8.30 |
+|        72 | Karen            | Núñez            |     8.95 |
+|        74 | María            | Pineda           |     9.00 |
+|        76 | Olga             | Moreno           |     8.20 |
+|        78 | Quetzal          | Lara             |     8.75 |
+|        80 | Sergio           | Reyna            |     9.20 |
+|        82 | Ulises           | Valdés           |     8.80 |
+|        84 | Walter           | Moral            |     9.40 |
+|        86 | Yahir            | Soto             |     8.60 |
+|        88 | Alan             | Miranda          |     9.30 |
+|        90 | César            | Torres           |     8.10 |
+|        92 | Efrén            | Barragán         |     9.05 |
+|        94 | Gustavo          | Del Río          |     8.45 |
+|        96 | Ignacio          | Peralta          |     9.15 |
+|        98 | Kevin            | Ochoa            |     8.25 |
+|       100 | Marco            | Varela           |     9.00 |
++-----------+------------------+------------------+----------+
+81 rows in set (0.00 sec)
+
++--------------+----------------+
+| nacionalidad | total_students |
++--------------+----------------+
+| Alemana      |              8 |
+| Argentina    |              8 |
+| Australiana  |             11 |
+| Belga        |              8 |
+| Boliviana    |              8 |
+| Brasileña    |              1 |
+| Canadiense   |              1 |
+| Cubana       |              1 |
+| Francesa     |              1 |
+| Guatemalteca |              1 |
+| India        |              1 |
+| Japonesa     |              2 |
+| Marroquí     |              1 |
+| Mexicana     |             44 |
+| Rumana       |              1 |
+| Tailandesa   |              1 |
+| Turca        |              1 |
+| Ucraniana    |              1 |
++--------------+----------------+
+18 rows in set (0.00 sec)
+
++--------------------------------------------+-----------------+
+| university                                 | total_exchanges |
++--------------------------------------------+-----------------+
+| Dalhousie University                       |               2 |
+| Universidad de Monterrey                   |               2 |
+| University of British Columbia             |               2 |
+| University of Canterbury                   |               2 |
+| École Polytechnique                        |               1 |
+| Eötvös Loránd University                   |               1 |
+| ETH Zurich                                 |               1 |
+| Ghent University                           |               1 |
+| Harvard University                         |               1 |
+| Heidelberg University                      |               1 |
+| Jagiellonian University                    |               1 |
+| KU Leuven                                  |               1 |
+| Lomonosov Moscow State University          |               1 |
+| London School of Economics                 |               1 |
+| Lund University                            |               1 |
+| Massachusetts Institute of Technology      |               1 |
+| McGill University                          |               1 |
+| McMaster University                        |               1 |
+| Monash University                          |               1 |
+| National Technical University of Athens    |               1 |
+| National University of Kyiv-Mohyla Academy |               1 |
+| National University of Singapore           |               1 |
+| Pontificia Universidad Católica de Chile   |               1 |
+| Queen’s University                         |               1 |
+| Saint Petersburg State University          |               1 |
+| Seoul National University                  |               1 |
+| Sorbonne University                        |               1 |
+| Stanford University                        |               1 |
+| Technical University of Munich             |               1 |
+| Universidad Autónoma de Nuevo León         |               1 |
+| Universidad Complutense de Madrid          |               1 |
+| Universidad de Barcelona                   |               1 |
+| Universidad de Buenos Aires                |               1 |
+| Universidad de Chile                       |               1 |
+| Universidad de Colombia                    |               1 |
+| Universidad de Costa Rica                  |               1 |
+| Universidad de Granada                     |               1 |
+| Universidad de Guadalajara                 |               1 |
+| Universidad de Lima                        |               1 |
+| Universidad de Salamanca                   |               1 |
+| Universidad de São Paulo                   |               1 |
+| Universidad de Sevilla                     |               1 |
+| Universidad Nacional Autónoma de México    |               1 |
+| Université de Montréal                     |               1 |
+| Université Laval                           |               1 |
+| University of Adelaide                     |               1 |
+| University of Alberta                      |               1 |
+| University of Amsterdam                    |               1 |
+| University of Athens                       |               1 |
+| University of Auckland                     |               1 |
+| University of Belgrade                     |               1 |
+| University of Bern                         |               1 |
+| Aalto University                           |               1 |
+| University of Bucharest                    |               1 |
+| University of Budapest                     |               1 |
+| University of Calgary                      |               1 |
+| University of California, Berkeley         |               1 |
+| University of Cambridge                    |               1 |
+| Charles University                         |               1 |
+| University of Cape Town                    |               1 |
+| University of Copenhagen                   |               1 |
+| University of Edinburgh                    |               1 |
+| University of Edurgh                       |               1 |
+| University of Glasgow                      |               1 |
+| University of Graz                         |               1 |
+| University of Helki                        |               1 |
+| University of Helsinki                     |               1 |
+| University of Iceland                      |               1 |
+| University of Lisbon                       |               1 |
+| University of Manchester                   |               1 |
+| University of Melbourne                    |               1 |
+| University of Montreal                     |               1 |
+| University of Nairobi                      |               1 |
+| University of New South Wales              |               1 |
+| University of Oslo                         |               1 |
+| University of Otago                        |               1 |
+| University of Ottawa                       |               1 |
+| University of Oxford                       |               1 |
+| University of Porto                        |               1 |
+| University of Prague                       |               1 |
+| University of Queensland                   |               1 |
+| University of Sofia                        |               1 |
+| University of Stockholm                    |               1 |
+| University of Sydney                       |               1 |
+| University of Tasmania                     |               1 |
+| University of Tokyo                        |               1 |
+| University of Toronto                      |               1 |
+| University of Vienna                       |               1 |
+| University of Warsaw                       |               1 |
+| University of Waterloo                     |               1 |
+| University of Western Australia            |               1 |
+| University of Western Ontario              |               1 |
+| University of Zagreb                       |               1 |
+| University of Zurich                       |               1 |
+| Utrecht University                         |               1 |
+| Victoria University of Wellington          |               1 |
++--------------------------------------------+-----------------+
+96 rows in set (0.00 sec)
+
++-------------+----------+
+| tipo        | avg_gpa  |
++-------------+----------+
+| intercambio | 8.212778 |
+| local       | 9.298125 |
++-------------+----------+
+2 rows in set (0.00 sec)
+
++-----------+-------------+------------------+
+| id_alumno | nombre      | languages_spoken |
++-----------+-------------+------------------+
+|        45 | Francisco   |                2 |
+|        41 | Juan Carlos |                2 |
+|        14 | Samuel      |                2 |
+|        82 | Ulises      |                3 |
+|        29 | Uriel       |                2 |
++-----------+-------------+------------------+
+5 rows in set (0.00 sec)
+
++----------------+--------------+------------+-----------------+
+| id_intercambio | fecha_inicio | fecha_fin  | duration_months |
++----------------+--------------+------------+-----------------+
+|             11 | 2024-01-15   | 2025-01-15 |              12 |
+|             12 | 2024-02-20   | 2025-02-20 |              12 |
+|             71 | 2024-01-01   | 2025-01-01 |              12 |
+|             72 | 2024-02-01   | 2025-02-01 |              12 |
++----------------+--------------+------------+-----------------+
+4 rows in set (0.00 sec)
+
++----------+----------------+
+| estatus  | total_requests |
++----------+----------------+
+| aceptado |            100 |
++----------+----------------+
+1 row in set (0.00 sec)
+
+Empty set (0.00 sec)
+
++------------------+-----------------+
+| pais             | total_exchanges |
++------------------+-----------------+
+| México           |               5 |
+| Argentina        |               1 |
+| Brasil           |               1 |
+| Chile            |               2 |
+| Colombia         |               1 |
+| Perú             |               1 |
+| Costa Rica       |               1 |
+| España           |               5 |
+| Estados Unidos   |               4 |
+| Canadá           |              16 |
+| Reino Unido      |               7 |
+| Francia          |               2 |
+| Alemania         |               2 |
+| Japón            |               1 |
+| Corea del Sur    |               1 |
+| Singapur         |               1 |
+| Australia        |               8 |
+| Nueva Zelanda    |               5 |
+| Sudáfrica        |               1 |
+| Kenia            |               1 |
+| Suiza            |               3 |
+| Bélgica          |               2 |
+| Países Bajos     |               2 |
+| Finlandia        |               3 |
+| Rusia            |               2 |
+| Polonia          |               2 |
+| República Checa  |               2 |
+| Hungría          |               2 |
+| Ucrania          |               1 |
+| Serbia           |               1 |
+| Croacia          |               1 |
+| Bulgaria         |               1 |
+| Rumania          |               1 |
+| Grecia           |               2 |
+| Austria          |               2 |
+| Portugal         |               2 |
+| Islandia         |               1 |
+| Noruega          |               1 |
+| Dinamarca        |               1 |
+| Suecia           |               2 |
++------------------+-----------------+
+40 rows in set (0.00 sec)
+
++-----------------------+
+| avg_exchange_duration |
++-----------------------+
+|                6.2500 |
++-----------------------+
+1 row in set (0.00 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> -- Pruebas
+mysql> SELECT is_student_eligible(63);
++-------------------------+
+| is_student_eligible(63) |
++-------------------------+
+|                       0 |
++-------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT is_student_eligible(64);
++-------------------------+
+| is_student_eligible(64) |
++-------------------------+
+|                       1 |
++-------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT is_student_eligible(69);
++-------------------------+
+| is_student_eligible(69) |
++-------------------------+
+|                       0 |
++-------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT is_student_eligible(1000000);
++------------------------------+
+| is_student_eligible(1000000) |
++------------------------------+
+|                         NULL |
++------------------------------+
+1 row in set (0.00 sec)
+
+mysql> CALL create_exchange_request(14, 'pending');
+Query OK, 1 row affected (0.00 sec)
+
+mysql> SELECT * FROM solicitud WHERE id_alumno = 14 ORDER BY fecha_solicitud DESC
+    -> LIMIT 1;
++--------------+-----------+---------+-----------------+
+| id_solicitud | id_alumno | estatus | fecha_solicitud |
++--------------+-----------+---------+-----------------+
+|          101 |        14 | pending | 2026-02-23      |
++--------------+-----------+---------+-----------------+
+1 row in set (0.00 sec)
+
+mysql> CALL create_exchange_request(3333, 'pending');
+ERROR 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`universidad_intercambios`.`solicitud`, CONSTRAINT `solicitud_ibfk_1` FOREIGN KEY (`id_alumno`) REFERENCES `alumnos` (`id_alumno`))
+
+mysql> -- =========================
+mysql> -- TRIGGER TESTS (EXPECTED ERROR)
+mysql> -- =========================
+mysql> 
+mysql> -- Attempt to create an exchange for a low-GPA student (id 69)
+mysql> INSERT INTO intercambio (
+    ->     id_solicitud,
+    ->     fecha_inicio,
+    ->     fecha_fin,
+    ->     id_universidad,
+    ->     alumno_recibido
+    -> )
+    -> VALUES (
+    ->     (SELECT id_solicitud FROM solicitud WHERE id_alumno = 69 LIMIT 1),
+    ->     '2026-01-01',
+    ->     '2026-07-01',
+    ->     1,
+    ->     'Yes'
+    -> );
+ERROR 1644 (45000): Student GPA is below the minimum required for exchange.
+mysql> -- Stop logging execution
+mysql> notee;
