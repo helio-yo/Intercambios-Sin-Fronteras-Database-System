@@ -110,9 +110,3 @@ This project demonstrates skills in:
 ## Author
 
 **Ismael Ruiz Carbajal**
-
----
-
-## Notes
-
-This project was developed as part of an academic database systems course and has been structured to meet **professional repository standards**, making it suitable for public sharing and portfolio inclusion.
