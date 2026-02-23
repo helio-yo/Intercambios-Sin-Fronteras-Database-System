@@ -65,7 +65,7 @@ The project includes **10 advanced SQL queries** covering:
 * Filtering based on academic and program criteria
 * Analytical insights for decision-making
 
-These queries are located in `business_logic_and_analytics.sql`.
+These queries are located in `analytics_and_business_logic.sql`.
 
 ---
 
