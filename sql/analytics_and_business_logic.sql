@@ -1,8 +1,6 @@
 USE universidad_intercambios;
 
--- =====================================================
 -- ADVANCED ANALYTICAL QUERIES
--- =====================================================
 
 -- Query 1: Students eligible for exchange (GPA >= 8.0)
 SELECT 
@@ -84,9 +82,7 @@ SELECT
     AVG(TIMESTAMPDIFF(MONTH, fecha_inicio, fecha_fin)) AS avg_exchange_duration
 FROM intercambio;
 
--- =====================================================
 -- FUNCTION
--- =====================================================
 
 -- Function: Check if a student is eligible for exchange
 DELIMITER $$
@@ -107,9 +103,7 @@ END$$
 
 DELIMITER ;
 
--- =====================================================
 -- PROCEDURE
--- =====================================================
 
 -- Procedure: Create a new exchange request
 DELIMITER $$
@@ -125,9 +119,7 @@ END$$
 
 DELIMITER ;
 
--- =====================================================
 -- TRIGGER
--- =====================================================
 
 -- Trigger: Prevent exchange creation if GPA is too low
 DELIMITER $$
