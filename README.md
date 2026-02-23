@@ -74,9 +74,9 @@ These queries are located in `business_logic_and_analytics.sql`.
 To run the project from scratch:
 
 ```sql
-SOURCE schema.sql;
-SOURCE data_inserts.sql;
-SOURCE business_logic_and_analytics.sql;
+SOURCE 01_schema.sql;
+SOURCE 02_inserts.sql;
+SOURCE analytics_and_business_logic.sql;
 ```
 
 The full execution output is documented in:
